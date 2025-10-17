@@ -1,6 +1,6 @@
 # Hi, I'm Khalid Al-Amri 👋
 
-**Cloud, Application & AI Security Enthusiast**
+**Cloud, Application, Digital & AI Security Enthusiast**
 
 ---
 
@@ -66,8 +66,9 @@ Inspired by [Amr Diab](https://www.anghami.com/artist/72)
 ## 🤝 Let's Connect!
 
 Whether you want to discuss security, work together on a project, or just say hi—my inbox is always open.  
-You can also connect on [LinkedIn](#) (add your link here).
+You can also connect on [LinkedIn](https://www.linkedin.com/in/khalidwalamri/) (add your link here).
 
 ---
 
 **Always learning. Always sharing. Always securing.**
+
