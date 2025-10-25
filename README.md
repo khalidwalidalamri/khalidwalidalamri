@@ -66,9 +66,10 @@ Inspired by [Amr Diab](https://www.anghami.com/artist/72)
 ## 🤝 Let's Connect!
 
 Whether you want to discuss security, work together on a project, or just say hi—my inbox is always open.  
-You can also connect on [LinkedIn](https://www.linkedin.com/in/khalidwalamri/) (add your link here).
+You can also connect on [LinkedIn](https://www.linkedin.com/in/khalidwalamri/)
 
 ---
 
 **Always learning. Always sharing. Always securing.**
+
 
