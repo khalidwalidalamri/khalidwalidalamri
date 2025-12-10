@@ -34,8 +34,7 @@ Thanks for stopping by! I’m Khalid, security enthusiast who loves making techn
   Princess Sumaya University for Technology (2018-2023)
 
 - **Certifications:**  
-  CISSP Associate (ISC2) · CCSP Associate (ISC2) · CCZT (CSA) · Certified AI Security Professional · CCSKv5 (CSA) · Certified in Cybersecurity (ISC2) · GCP Professional Cloud Architect · COBIT 2019 Foundation · Cisco's CCNA · AWS Certified Cloud Practitioner  
-  Copilot for Security Ninja Training · Cybersecurity & AI (Udemy)
+  CISSP Associate (ISC2) · CCSP Associate (ISC2) · CCZT (CSA) · Certified AI Security Professional · CCSKv5 (CSA) · Certified in Cybersecurity (ISC2) · GCP Professional Cloud Architect · COBIT 2019 Foundation · Cisco's CCNA · AWS Certified Cloud Practitioner · Copilot for Security Ninja Training · Cybersecurity & AI (Udemy)
 
 ---
 
@@ -70,6 +69,7 @@ You can also connect on [LinkedIn](https://www.linkedin.com/in/khalidwalamri/)
 ---
 
 **Always learning. Always sharing. Always securing.**
+
 
 
 
